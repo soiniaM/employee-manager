@@ -1,0 +1,44 @@
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# .NET build output
+bin/
+obj/
+
+# User secrets
+secrets.json
+appsettings.Development.json
+
+# Environment files
+.env
+.env.*
+
+# Test results
+TestResults/
+*.trx
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Rider
+.idea/
+
+# Publish output
+publish/
